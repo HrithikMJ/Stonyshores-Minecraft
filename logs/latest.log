@@ -1,253 +1,142 @@
-[19:04:15] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
-[19:04:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:04:22] [ServerMain/INFO]: Loaded 1290 recipes
-[19:04:22] [ServerMain/INFO]: Loaded 1399 advancements
-[19:04:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[19:04:23] [Server thread/INFO]: Loading properties
-[19:04:23] [Server thread/INFO]: Default game type: SURVIVAL
-[19:04:23] [Server thread/INFO]: Generating keypair
-[19:04:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:04:23] [Server thread/INFO]: Using epoll channel type
-[19:04:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:04:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:04:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:04:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:04:23] [Server thread/INFO]: Preparing level "world"
-[19:04:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:04:24] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:04:24] [Server thread/INFO]: Time elapsed: 470 ms
-[19:04:24] [Server thread/INFO]: Done (1.546s)! For help, type "help"
-[19:05:04] [Server thread/INFO]: LordJobi[/127.0.0.1:54528] logged in with entity id 31 at (357.5133580165494, 80.0, 153.33160332479238)
-[19:05:04] [Server thread/INFO]: LordJobi joined the game
-[19:06:49] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[19:07:17] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[19:18:02] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[19:24:43] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[19:24:43] [Server thread/INFO]: LordJobi left the game
-[19:26:10] [Server thread/INFO]: LordJobi[/127.0.0.1:59510] logged in with entity id 6431 at (-127.36478507602993, 63.0, 221.5153747752392)
-[19:26:10] [Server thread/INFO]: LordJobi joined the game
-[19:27:28] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:27:47] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:28:37] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:28:44] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:28:46] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:28:48] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:28:54] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:28:56] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:28:59] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:29:04] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:29:06] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:29:08] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:29:10] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:29:13] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:29:19] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:29:38] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:29:44] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:29:47] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:29:51] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:30:00] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:30:22] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:31:02] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:31:05] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:31:09] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:31:12] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:31:15] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:31:18] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:31:21] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:32:17] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[19:32:17] [Server thread/INFO]: LordJobi left the game
-[19:33:06] [Server thread/INFO]: LordJobi[/127.0.0.1:43360] logged in with entity id 7997 at (-134.5907072224666, 64.0, 218.68403593205892)
-[19:33:06] [Server thread/INFO]: LordJobi joined the game
-[19:34:36] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[19:35:33] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[19:35:39] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[19:36:30] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[19:36:30] [Server thread/INFO]: LordJobi left the game
-[19:36:59] [Server thread/INFO]: LordJobi[/127.0.0.1:58916] logged in with entity id 9082 at (-135.2711964106696, 64.0, 216.6590711012786)
-[19:36:59] [Server thread/INFO]: LordJobi joined the game
-[19:37:06] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[19:43:49] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[19:43:49] [Server thread/INFO]: LordJobi left the game
-[19:44:07] [Server thread/INFO]: LordJobi[/127.0.0.1:48958] logged in with entity id 10624 at (-138.15460455719446, 66.53292827534491, 216.78442231174026)
-[19:44:07] [Server thread/INFO]: LordJobi joined the game
-[19:45:10] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[19:45:10] [Server thread/INFO]: LordJobi left the game
-[19:45:32] [Server thread/INFO]: LordJobi[/127.0.0.1:36134] logged in with entity id 11084 at (-140.44142313386018, 67.12563554902955, 219.16565967442727)
-[19:45:32] [Server thread/INFO]: LordJobi joined the game
-[19:49:34] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:49:38] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:49:40] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:49:42] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:49:45] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:49:49] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:49:56] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:49:58] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:50:00] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:50:03] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:50:05] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:50:07] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:50:09] [Server thread/INFO]: [LordJobi: Successfully cloned 35 block(s)]
-[19:52:41] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[19:53:09] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[19:55:54] [Server thread/INFO]: SillyCorn[/127.128.23.170:58783] logged in with entity id 13891 at (-120.69999998807907, 63.0, 135.71466635518846)
-[19:55:54] [Server thread/INFO]: SillyCorn joined the game
-[19:56:26] [Server thread/INFO]: [Not Secure] <SillyCorn> hi
-[19:56:30] [Server thread/INFO]: [Not Secure] <LordJobi> hi bro
-[19:58:31] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[19:59:07] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[19:59:32] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[19:59:53] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[19:59:53] [Server thread/INFO]: LordJobi left the game
-[20:01:09] [Server thread/INFO]: [SillyCorn: Set the time to 1000]
-[20:01:16] [Server thread/INFO]: LordJobi[/127.0.0.1:59304] logged in with entity id 15273 at (-129.45122697301298, 64.0, 226.20421758223668)
-[20:01:16] [Server thread/INFO]: LordJobi joined the game
-[20:01:22] [Server thread/INFO]: [Not Secure] <LordJobi> join vc bro
-[20:01:44] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:02:42] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:03:58] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:04:03] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:04:11] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:04:25] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:04:28] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:04:32] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:04:55] [Server thread/INFO]: [SillyCorn: Set own game mode to Spectator Mode]
-[20:05:02] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:05:08] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:05:12] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:05:15] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:05:18] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:05:21] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:05:40] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:05:40] [Server thread/INFO]: [SillyCorn: Set own game mode to Survival Mode]
-[20:05:43] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:05:48] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:06:07] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:06:21] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:07:36] [Server thread/INFO]: [SillyCorn: Set own game mode to Spectator Mode]
-[20:07:54] [Server thread/INFO]: [SillyCorn: Set own game mode to Survival Mode]
-[20:08:25] [Server thread/INFO]: [SillyCorn: Set own game mode to Spectator Mode]
-[20:08:54] [Server thread/INFO]: [SillyCorn: Set own game mode to Survival Mode]
-[20:09:52] [Server thread/INFO]: [SillyCorn: Set own game mode to Spectator Mode]
-[20:10:08] [Server thread/INFO]: [SillyCorn: Set own game mode to Survival Mode]
-[20:11:22] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:12:46] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:12:56] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:13:12] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[20:13:37] [Server thread/INFO]: [SillyCorn: Set the time to 1000]
-[20:23:14] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:24:49] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:24:51] [Server thread/INFO]: [SillyCorn: Set own game mode to Spectator Mode]
-[20:25:03] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:25:05] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:25:07] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:25:09] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:25:13] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:25:15] [Server thread/WARN]: SillyCorn moved too quickly! -9.173404699939598,-4.1250001478549905,2.721515239740313
-[20:25:16] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:25:23] [Server thread/INFO]: [SillyCorn: Set own game mode to Survival Mode]
-[20:26:17] [Server thread/INFO]: [SillyCorn: Set own game mode to Spectator Mode]
-[20:26:38] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:27:13] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:27:27] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:27:57] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:28:23] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:28:57] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:30:55] [Server thread/INFO]: [SillyCorn: Set own game mode to Survival Mode]
-[20:32:58] [Server thread/INFO]: [SillyCorn: Set own game mode to Spectator Mode]
-[20:33:31] [Server thread/INFO]: [SillyCorn: Set own game mode to Survival Mode]
-[20:33:58] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:34:08] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:34:14] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:34:17] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:34:20] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:34:24] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:34:27] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:34:32] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:34:41] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:34:48] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:34:51] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:34:53] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:35:01] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:35:04] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:36:13] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:36:18] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:36:21] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:36:27] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:36:31] [Server thread/INFO]: [LordJobi: Successfully cloned 28 block(s)]
-[20:37:01] [Server thread/INFO]: SillyCorn has made the advancement [The Parrots and the Bats]
-[20:48:22] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:48:47] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[20:52:30] [Server thread/INFO]: [Not Secure] <SillyCorn> going for dinner
-[20:52:32] [Server thread/INFO]: SillyCorn lost connection: Disconnected
-[20:52:32] [Server thread/INFO]: SillyCorn left the game
-[20:52:34] [Server thread/INFO]: [Not Secure] <LordJobi> ok bro
-[20:59:47] [Server thread/INFO]: sriram[/127.228.245.222:52251] logged in with entity id 32441 at (-93.17529414783041, 62.0, 119.30000001192093)
-[20:59:47] [Server thread/INFO]: sriram joined the game
-[21:01:13] [Server thread/INFO]: LordJobi has made the advancement [Sticky Situation]
-[21:04:01] [Server thread/INFO]: SillyCorn[/127.128.23.170:50889] logged in with entity id 33429 at (-102.29681149110644, 68.0, 160.51521251960872)
-[21:04:01] [Server thread/INFO]: SillyCorn joined the game
-[21:15:42] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[21:15:42] [Server thread/INFO]: LordJobi left the game
-[21:16:07] [Server thread/INFO]: LordJobi[/127.0.0.1:53486] logged in with entity id 35924 at (-127.68771737858833, 64.0, 222.5678453814499)
-[21:16:07] [Server thread/INFO]: LordJobi joined the game
-[21:16:58] [Server thread/WARN]: SillyCorn moved wrongly!
-[21:21:43] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[21:21:43] [Server thread/INFO]: LordJobi left the game
-[21:21:59] [Server thread/INFO]: LordJobi[/127.0.0.1:36554] logged in with entity id 37242 at (-129.7477393645858, 66.20000004768372, 219.0905965682935)
-[21:21:59] [Server thread/INFO]: LordJobi joined the game
-[21:22:05] [Server thread/INFO]: [LordJobi: Set the time to 1000]
-[21:24:54] [Server thread/INFO]: [SillyCorn: Set own game mode to Spectator Mode]
-[21:28:11] [Server thread/INFO]: [SillyCorn: Set own game mode to Survival Mode]
-[21:30:23] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[21:30:23] [Server thread/INFO]: LordJobi left the game
-[21:33:18] [Server thread/INFO]: LordJobi[/127.0.0.1:45016] logged in with entity id 40636 at (-130.08446573885635, 64.0, 222.14009484255664)
-[21:33:18] [Server thread/INFO]: LordJobi joined the game
-[21:34:31] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[21:34:31] [Server thread/INFO]: LordJobi left the game
-[21:38:45] [Server thread/INFO]: LordJobi[/127.0.0.1:53394] logged in with entity id 41804 at (-130.82097083987927, 64.0, 221.68494735293564)
-[21:38:45] [Server thread/INFO]: LordJobi joined the game
-[21:38:55] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[21:38:55] [Server thread/INFO]: LordJobi left the game
-[21:38:57] [Server thread/INFO]: LordJobi[/127.0.0.1:42528] logged in with entity id 41938 at (-129.7487031150163, 64.0, 223.77428525095033)
-[21:38:57] [Server thread/INFO]: LordJobi joined the game
-[21:38:59] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[21:38:59] [Server thread/INFO]: LordJobi left the game
-[21:40:40] [Server thread/INFO]: [SillyCorn: Set own game mode to Spectator Mode]
-[21:41:07] [Server thread/INFO]: [SillyCorn: Set own game mode to Survival Mode]
-[21:41:35] [Server thread/INFO]: SillyCorn lost connection: Disconnected
-[21:41:35] [Server thread/INFO]: SillyCorn left the game
-[21:47:02] [Server thread/INFO]: LordJobi[/127.0.0.1:42394] logged in with entity id 43816 at (-129.7487031150163, 64.0, 223.77428525095033)
-[21:47:02] [Server thread/INFO]: LordJobi joined the game
-[21:47:04] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[21:47:04] [Server thread/INFO]: LordJobi left the game
-[21:49:27] [Server thread/INFO]: LordJobi[/127.0.0.1:40986] logged in with entity id 44301 at (-129.7487031150163, 64.0, 223.77428525095033)
-[21:49:27] [Server thread/INFO]: LordJobi joined the game
-[21:49:32] [Server thread/INFO]: [LordJobi: Set the time to 1000]
-[21:50:08] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[21:50:08] [Server thread/INFO]: LordJobi left the game
-[21:51:50] [Server thread/INFO]: LordJobi[/127.0.0.1:40202] logged in with entity id 44887 at (-131.59668344277136, 64.0, 222.7284690281675)
-[21:51:50] [Server thread/INFO]: LordJobi joined the game
-[21:59:50] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[21:59:50] [Server thread/INFO]: LordJobi left the game
-[22:05:57] [Server thread/INFO]: LordJobi[/127.0.0.1:57726] logged in with entity id 47998 at (-132.46392000275077, 64.0, 220.72770086915236)
-[22:05:57] [Server thread/INFO]: LordJobi joined the game
-[22:06:02] [Server thread/INFO]: [LordJobi: Set the time to 1000]
-[22:17:35] [Server thread/INFO]: [Not Secure] <LordJobi> sleep
-[22:17:46] [Server thread/INFO]: [Not Secure] <LordJobi> sriram
-[22:17:57] [Server thread/INFO]: [Not Secure] <LordJobi> nice flooring
-[22:17:57] [Server thread/INFO]: [Not Secure] <sriram> yes na
-[22:18:07] [Server thread/INFO]: [Not Secure] <sriram> tq na
-[22:18:41] [Server thread/INFO]: [Not Secure] <LordJobi> sleep sriram
-[22:29:56] [Server thread/INFO]: [LordJobi: Set the time to 1000]
-[22:41:22] [Server thread/INFO]: [LordJobi: Set the time to 1000]
-[22:41:28] [Server thread/INFO]: [LordJobi: Set the weather to clear]
-[22:50:43] [Server thread/INFO]: [LordJobi: Set the time to 1000]
-[23:13:03] [Server thread/INFO]: [LordJobi: Set sriram's game mode to Spectator Mode]
-[23:14:33] [Server thread/INFO]: [LordJobi: Teleported sriram to LordJobi]
-[23:14:44] [Server thread/INFO]: [LordJobi: Set sriram's game mode to Survival Mode]
-[23:15:31] [Server thread/INFO]: sriram lost connection: Disconnected
-[23:15:31] [Server thread/INFO]: sriram left the game
-[23:15:48] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[23:16:12] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[23:18:46] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[23:18:46] [Server thread/INFO]: LordJobi left the game
+[18:21:13] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
+[18:21:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:21:19] [ServerMain/INFO]: Loaded 1290 recipes
+[18:21:20] [ServerMain/INFO]: Loaded 1399 advancements
+[18:21:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:21:20] [Server thread/INFO]: Loading properties
+[18:21:20] [Server thread/INFO]: Default game type: SURVIVAL
+[18:21:20] [Server thread/INFO]: Generating keypair
+[18:21:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:21:20] [Server thread/INFO]: Using epoll channel type
+[18:21:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:21:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:21:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:21:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:21:21] [Server thread/INFO]: Preparing level "world"
+[18:21:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:21:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:21:22] [Server thread/INFO]: Time elapsed: 447 ms
+[18:21:22] [Server thread/INFO]: Done (1.392s)! For help, type "help"
+[18:22:06] [Server thread/INFO]: LordJobi[/127.0.0.1:59260] logged in with entity id 18 at (-132.50006910072622, 61.200000047683716, 219.30000001192093)
+[18:22:06] [Server thread/INFO]: LordJobi joined the game
+[18:24:17] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:24:46] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:25:04] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:25:16] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:25:29] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:25:55] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:26:11] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:26:35] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:26:38] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:26:41] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:27:39] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:28:11] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:28:16] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:28:59] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:29:26] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:29:38] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:29:51] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:30:12] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:32:23] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[18:32:23] [Server thread/INFO]: LordJobi left the game
+[18:33:38] [Server thread/INFO]: LordJobi[/127.0.0.1:45840] logged in with entity id 4303 at (-105.02248410981947, 64.0, 191.6909975501794)
+[18:33:38] [Server thread/INFO]: LordJobi joined the game
+[18:33:45] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:34:08] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:35:24] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:35:37] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:38:03] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:38:47] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[18:40:21] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:41:12] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:41:29] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:41:59] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:45:26] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:49:25] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:49:46] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:51:51] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:52:17] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:52:59] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:53:11] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:53:26] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:54:11] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:54:45] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:54:55] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:56:25] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:56:55] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:58:33] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:59:34] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[19:00:47] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[19:01:18] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[19:02:00] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[19:02:31] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[19:07:39] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[19:12:12] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[19:13:04] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[19:13:22] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[19:13:22] [Server thread/INFO]: LordJobi left the game
+[20:04:51] [Server thread/INFO]: LordJobi[/127.0.0.1:39204] logged in with entity id 19128 at (-114.84931120840434, 64.0, 225.07218388634365)
+[20:04:51] [Server thread/INFO]: LordJobi joined the game
+[20:09:48] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:10:21] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[20:18:00] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:18:13] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[20:18:44] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:19:49] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[20:19:59] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:21:47] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[20:26:44] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[20:27:41] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[20:27:41] [Server thread/INFO]: LordJobi left the game
+[20:28:29] [Server thread/INFO]: LordJobi[/127.0.0.1:43800] logged in with entity id 25118 at (-94.67808956454093, 68.0, 164.99958468091975)
+[20:28:29] [Server thread/INFO]: LordJobi joined the game
+[20:29:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-71, y=72, z=104} jd{x=-70, y=71, z=104}
+[20:30:21] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:30:35] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[20:36:22] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[20:38:03] [Server thread/INFO]: [LordJobi: Gave 1 [Copper Ingot] to LordJobi]
+[20:38:08] [Server thread/INFO]: [LordJobi: Gave 1 [Copper Ingot] to LordJobi]
+[20:40:34] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:40:41] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[20:40:44] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:40:52] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[20:43:24] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:46:10] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[20:46:34] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:47:39] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[20:49:54] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:50:15] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[20:50:24] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:51:05] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[20:51:35] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[20:51:35] [Server thread/INFO]: LordJobi left the game
+[21:35:20] [Server thread/INFO]: LordJobi[/127.0.0.1:48160] logged in with entity id 31504 at (-95.16012998705745, 63.0, 132.22836568060066)
+[21:35:20] [Server thread/INFO]: LordJobi joined the game
+[21:40:37] [Server thread/INFO]: Villager cmk['Mason'/31540, l='ServerLevel[world]', x=-103.56, y=63.00, z=135.44] died, message: 'Mason was slain by LordJobi'
+[21:40:47] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[21:40:47] [Server thread/INFO]: LordJobi left the game
+[22:19:51] [Server thread/INFO]: LordJobi[/127.0.0.1:57074] logged in with entity id 33501 at (-92.76943541910123, 63.0, 130.51557077361554)
+[22:19:51] [Server thread/INFO]: LordJobi joined the game
+[22:22:16] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[22:22:26] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[22:36:01] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[22:36:18] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[22:36:44] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[22:36:44] [Server thread/INFO]: LordJobi left the game
+[22:46:03] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:186) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at apn$1.run(SourceFile:103) [server-1.21.1.jar:?]
