@@ -1,142 +1,266 @@
-[18:21:13] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
-[18:21:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:21:19] [ServerMain/INFO]: Loaded 1290 recipes
-[18:21:20] [ServerMain/INFO]: Loaded 1399 advancements
-[18:21:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[18:21:20] [Server thread/INFO]: Loading properties
-[18:21:20] [Server thread/INFO]: Default game type: SURVIVAL
-[18:21:20] [Server thread/INFO]: Generating keypair
-[18:21:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:21:20] [Server thread/INFO]: Using epoll channel type
-[18:21:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:21:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:21:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:21:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:21:21] [Server thread/INFO]: Preparing level "world"
-[18:21:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:21:22] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[18:21:22] [Server thread/INFO]: Time elapsed: 447 ms
-[18:21:22] [Server thread/INFO]: Done (1.392s)! For help, type "help"
-[18:22:06] [Server thread/INFO]: LordJobi[/127.0.0.1:59260] logged in with entity id 18 at (-132.50006910072622, 61.200000047683716, 219.30000001192093)
-[18:22:06] [Server thread/INFO]: LordJobi joined the game
-[18:24:17] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:24:46] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:25:04] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:25:16] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:25:29] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:25:55] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:26:11] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:26:35] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:26:38] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:26:41] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:27:39] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:28:11] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:28:16] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:28:59] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:29:26] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:29:38] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:29:51] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:30:12] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:32:23] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[18:32:23] [Server thread/INFO]: LordJobi left the game
-[18:33:38] [Server thread/INFO]: LordJobi[/127.0.0.1:45840] logged in with entity id 4303 at (-105.02248410981947, 64.0, 191.6909975501794)
-[18:33:38] [Server thread/INFO]: LordJobi joined the game
-[18:33:45] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:34:08] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:35:24] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:35:37] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:38:03] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:38:47] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[18:40:21] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:41:12] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:41:29] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:41:59] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:45:26] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:49:25] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:49:46] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:51:51] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:52:17] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:52:59] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:53:11] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:53:26] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:54:11] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:54:45] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:54:55] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:56:25] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:56:55] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[18:58:33] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[18:59:34] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[19:00:47] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[19:01:18] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[19:02:00] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[19:02:31] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[19:07:39] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[19:12:12] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[19:13:04] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[19:13:22] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[19:13:22] [Server thread/INFO]: LordJobi left the game
-[20:04:51] [Server thread/INFO]: LordJobi[/127.0.0.1:39204] logged in with entity id 19128 at (-114.84931120840434, 64.0, 225.07218388634365)
-[20:04:51] [Server thread/INFO]: LordJobi joined the game
-[20:09:48] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:10:21] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[20:18:00] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:18:13] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[20:18:44] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:19:49] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[20:19:59] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:21:47] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[20:26:44] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[20:27:41] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[20:27:41] [Server thread/INFO]: LordJobi left the game
-[20:28:29] [Server thread/INFO]: LordJobi[/127.0.0.1:43800] logged in with entity id 25118 at (-94.67808956454093, 68.0, 164.99958468091975)
-[20:28:29] [Server thread/INFO]: LordJobi joined the game
-[20:29:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-71, y=72, z=104} jd{x=-70, y=71, z=104}
-[20:30:21] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:30:35] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[20:36:22] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[20:38:03] [Server thread/INFO]: [LordJobi: Gave 1 [Copper Ingot] to LordJobi]
-[20:38:08] [Server thread/INFO]: [LordJobi: Gave 1 [Copper Ingot] to LordJobi]
-[20:40:34] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:40:41] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[20:40:44] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:40:52] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[20:43:24] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:46:10] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[20:46:34] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:47:39] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[20:49:54] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:50:15] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
-[20:50:24] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[20:51:05] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[20:51:35] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[20:51:35] [Server thread/INFO]: LordJobi left the game
-[21:35:20] [Server thread/INFO]: LordJobi[/127.0.0.1:48160] logged in with entity id 31504 at (-95.16012998705745, 63.0, 132.22836568060066)
-[21:35:20] [Server thread/INFO]: LordJobi joined the game
-[21:40:37] [Server thread/INFO]: Villager cmk['Mason'/31540, l='ServerLevel[world]', x=-103.56, y=63.00, z=135.44] died, message: 'Mason was slain by LordJobi'
-[21:40:47] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[21:40:47] [Server thread/INFO]: LordJobi left the game
-[22:19:51] [Server thread/INFO]: LordJobi[/127.0.0.1:57074] logged in with entity id 33501 at (-92.76943541910123, 63.0, 130.51557077361554)
-[22:19:51] [Server thread/INFO]: LordJobi joined the game
-[22:22:16] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[22:22:26] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[22:36:01] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
-[22:36:18] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
-[22:36:44] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[22:36:44] [Server thread/INFO]: LordJobi left the game
-[22:46:03] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
-	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
-	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:186) ~[?:?]
-	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
-	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
-	at apn$1.run(SourceFile:103) [server-1.21.1.jar:?]
+[18:26:05] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
+[18:26:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:26:13] [ServerMain/INFO]: Loaded 1290 recipes
+[18:26:13] [ServerMain/INFO]: Loaded 1399 advancements
+[18:26:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:26:14] [Server thread/INFO]: Loading properties
+[18:26:14] [Server thread/INFO]: Default game type: SURVIVAL
+[18:26:14] [Server thread/INFO]: Generating keypair
+[18:26:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:26:15] [Server thread/INFO]: Using epoll channel type
+[18:26:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:26:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:26:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:26:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:26:15] [Server thread/INFO]: Preparing level "world"
+[18:26:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:26:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:26:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:26:18] [Server thread/INFO]: Time elapsed: 1082 ms
+[18:26:18] [Server thread/INFO]: Done (3.126s)! For help, type "help"
+[18:26:21] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[18:26:21] [Server thread/INFO]: ...90900907]}/data modify entity @e[type=villager,sort=nearest,limit=1] Gossips append value {Type: "major_positive", Value: 10, Target:[I; -1444217108, -1308934218, -1321128443, 590900907]}<--[HERE]
+[18:26:24] [Server thread/INFO]: No entity was found
+[18:26:29] [Server thread/INFO]: LordJobi[/127.0.0.1:60814] logged in with entity id 35 at (-85.02872880774127, 67.0, 140.8459456722205)
+[18:26:29] [Server thread/INFO]: LordJobi joined the game
+[18:26:42] [Server thread/INFO]: Expected '}'
+[18:26:42] [Server thread/INFO]: ...590900907]<--[HERE]
+[18:26:46] [Server thread/INFO]: Modified entity data of Farmer
+[18:26:46] [Server thread/INFO]: SillyCorn[/127.128.23.170:35237] logged in with entity id 424 at (-105.95535698974162, 63.0, 142.93041147892706)
+[18:26:46] [Server thread/INFO]: SillyCorn joined the game
+[18:27:08] [Server thread/INFO]: dharundds[/127.220.117.182:54545] logged in with entity id 471 at (-106.5, 68.0, 116.5)
+[18:27:08] [Server thread/INFO]: dharundds joined the game
+[18:27:08] [Server thread/INFO]: Modified entity data of Farmer
+[18:27:17] [Server thread/INFO]: [Not Secure] <dharundds> hrithik?
+[18:27:22] [Server thread/INFO]: [Not Secure] <dharundds> kekudha?
+[18:27:38] [Server thread/INFO]: sriram[/127.195.67.217:40529] logged in with entity id 642 at (-100.294119033875, 63.0, 121.38241681394972)
+[18:27:38] [Server thread/INFO]: sriram joined the game
+[18:27:41] [Server thread/INFO]: [Not Secure] <SillyCorn> we can hear
+[18:28:55] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[18:29:32] [Server thread/INFO]: [dharundds: Set own game mode to Survival Mode]
+[18:30:20] [Server thread/INFO]: [dharundds: Set sriram's game mode to Survival Mode]
+[18:32:44] [Server thread/INFO]: [Not Secure] <LordJobi> sriram join vc
+[18:36:04] [Server thread/WARN]: dharundds moved too quickly! -0.12293426335286028,0.0,-10.095751679358784
+[18:37:56] [Server thread/INFO]: sriram has made the advancement [Suit Up]
+[18:39:47] [Server thread/INFO]: dharundds has made the advancement [We Need to Go Deeper]
+[18:46:29] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[18:46:36] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[18:46:41] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[18:53:39] [Server thread/INFO]: [Not Secure] <LordJobi> sriram im mute
+[19:05:40] [Server thread/INFO]: [LordJobi: Teleported LordJobi to dharundds]
+[19:10:23] [Server thread/INFO]: [dharundds: Teleported dharundds to sriram]
+[19:10:36] [Server thread/INFO]: [dharundds: Teleported LordJobi to dharundds]
+[19:10:41] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to sriram]
+[19:10:44] [Server thread/INFO]: [dharundds: Teleported SillyCorn to dharundds]
+[19:12:40] [Server thread/INFO]: [Not Secure] <LordJobi> solu bro
+[19:12:54] [Server thread/INFO]: [Not Secure] <LordJobi> sorted
+[19:13:40] [Server thread/INFO]: dharundds lost connection: Disconnected
+[19:13:40] [Server thread/INFO]: dharundds left the game
+[19:13:44] [Server thread/INFO]: dharundds[/127.220.117.182:44991] logged in with entity id 13168 at (-137.34850826632163, 63.0, 190.69999998807907)
+[19:13:44] [Server thread/INFO]: dharundds joined the game
+[19:18:12] [Server thread/INFO]: [Not Secure] <LordJobi> sriram
+[19:19:09] [Server thread/INFO]: SillyCorn lost connection: Disconnected
+[19:19:09] [Server thread/INFO]: SillyCorn left the game
+[19:20:43] [Server thread/WARN]: dharundds moved too quickly! 2.0239374277025206,2.0,9.809578968072117
+[19:21:14] [Server thread/INFO]: [Not Secure] <dharundds> follow us sriram
+[19:21:29] [Server thread/INFO]: [Not Secure] <sriram> hi
+[19:23:35] [Server thread/INFO]: [LordJobi: Teleported sriram to LordJobi]
+[19:23:44] [Server thread/WARN]: dharundds moved too quickly! 4.942092983951124,-1.0,8.690156842344607
+[19:24:09] [Server thread/WARN]: dharundds moved too quickly! 7.311760561677673,-1.1552320045166056,6.76124327223863
+[19:24:31] [Server thread/WARN]: dharundds moved too quickly! 1.7270276526502926,-9.769832914316424,2.6686196306145575
+[19:30:03] [Server thread/INFO]: sriram has made the advancement [Monster Hunter]
+[19:34:01] [Server thread/INFO]: sriram was slain by Zombie
+[19:35:03] [Server thread/INFO]: SillyCorn[/127.128.23.170:33985] logged in with entity id 19401 at (-102.99193109193914, 63.0, 128.639149961028)
+[19:35:03] [Server thread/INFO]: SillyCorn joined the game
+[19:35:32] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to LordJobi]
+[19:35:39] [Server thread/INFO]: [LordJobi: Teleported sriram to LordJobi]
+[19:37:30] [Server thread/INFO]: [LordJobi: Teleported sriram to LordJobi]
+[19:43:55] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[19:44:03] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[19:44:11] [Server thread/INFO]: dharundds burned to death
+[19:44:13] [Server thread/INFO]: [LordJobi: Teleported SillyCorn to LordJobi]
+[19:44:21] [Server thread/INFO]: [dharundds: Teleported dharundds to LordJobi]
+[19:44:57] [Server thread/INFO]: [dharundds: Set own game mode to Spectator Mode]
+[19:45:02] [Server thread/WARN]: dharundds moved too quickly! -10.055252309712074,0.0,1.2345781947938121
+[19:45:11] [Server thread/WARN]: dharundds moved too quickly! 10.010104743452018,1.3450660134865196,1.315295661944333
+[19:45:15] [Server thread/WARN]: dharundds moved too quickly! -10.387064017720505,-0.15000000596046448,-1.7049359772609023
+[19:45:20] [Server thread/WARN]: dharundds moved too quickly! -0.9191668444452716,0.0,-10.054608688906
+[19:45:29] [Server thread/WARN]: dharundds moved too quickly! -0.7054817573879006,0.0,10.273639742774549
+[19:45:48] [Server thread/INFO]: sriram was slain by Zombie
+[19:45:48] [Server thread/WARN]: dharundds moved too quickly! -9.788999512164764,3.938724596574847,-0.2738643706951507
+[19:46:00] [Server thread/WARN]: dharundds moved too quickly! -8.179975533792563,6.000000238418579,1.275505810868367
+[19:46:09] [Server thread/INFO]: [dharundds: Teleported dharundds to LordJobi]
+[19:46:18] [Server thread/INFO]: [dharundds: Set own game mode to Survival Mode]
+[19:50:24] [Server thread/INFO]: [Not Secure] <sriram> tp me pls
+[19:50:46] [Server thread/INFO]: [SillyCorn: Teleported sriram to SillyCorn]
+[19:55:52] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[19:56:43] [Server thread/INFO]: [dharundds: Set own game mode to Creative Mode]
+[19:56:59] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[19:57:03] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[20:00:15] [Server thread/WARN]: dharundds moved too quickly! 0.0,-11.064980402202252,0.0
+[20:01:42] [Server thread/WARN]: dharundds moved too quickly! 6.356396704232424,0.0,7.892414494675904
+[20:01:57] [Server thread/WARN]: dharundds moved too quickly! 8.695953372953824,5.998831656342929,0.3294254281628355
+[20:02:00] [Server thread/WARN]: dharundds moved too quickly! 8.941653914981913,5.4376589035054295,-0.575269523074553
+[20:02:09] [Server thread/WARN]: dharundds moved too quickly! -1.3029747923635568,8.625000342726707,-5.064865707482568
+[20:02:34] [Server thread/WARN]: dharundds moved too quickly! -0.4854691504805828,-5.6100002229213715,8.308378931650395
+[20:02:49] [Server thread/INFO]: [dharundds: Set own game mode to Survival Mode]
+[20:03:07] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:03:18] [Server thread/INFO]: [LordJobi: Teleported LordJobi to dharundds]
+[20:03:18] [Server thread/WARN]: LordJobi moved too quickly! 154.35512208722778,160.9375,-33.38694160013233
+[20:03:18] [Server thread/WARN]: LordJobi moved too quickly! 154.35512208722778,160.9375,-33.38694160013233
+[20:03:18] [Server thread/WARN]: LordJobi moved too quickly! 154.35512208722778,160.9375,-33.38694160013233
+[20:03:18] [Server thread/WARN]: LordJobi moved too quickly! 154.35512208722778,160.9375,-33.38694160013233
+[20:03:23] [Server thread/INFO]: [dharundds: Teleported SillyCorn to dharundds]
+[20:03:49] [Server thread/INFO]: Villager cmk['Villager'/26981, l='ServerLevel[world]', x=377.49, y=132.00, z=556.48] died, message: 'Villager froze to death'
+[20:03:54] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[20:04:00] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[20:04:22] [Server thread/INFO]: [SillyCorn: Teleported sriram to SillyCorn]
+[20:06:35] [Server thread/INFO]: [LordJobi: Teleported LordJobi to dharundds]
+[20:06:35] [Server thread/WARN]: LordJobi moved too quickly! 110.24747852586484,23.0,179.44214775990764
+[20:10:29] [Server thread/INFO]: SillyCorn lost connection: Disconnected
+[20:10:29] [Server thread/INFO]: SillyCorn left the game
+[20:11:39] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:11:45] [Server thread/INFO]: [dharundds: Set own game mode to Spectator Mode]
+[20:11:47] [Server thread/WARN]: dharundds moved too quickly! 9.94652138622071,-1.0104000401496904,1.8801612826545977
+[20:11:49] [Server thread/WARN]: dharundds moved too quickly! 0.8639734354696031,-8.247959621164966,6.118135230819803
+[20:11:53] [Server thread/WARN]: dharundds moved too quickly! 0.022655373252874256,-5.249943125905844,-8.886693867164894
+[20:11:56] [Server thread/WARN]: dharundds moved too quickly! 5.6500258088605335,0.0,9.041433633315862
+[20:11:58] [Server thread/INFO]: SillyCorn[/127.128.23.170:43423] logged in with entity id 30159 at (47.15262371107741, 82.0, 48.51587062877146)
+[20:11:58] [Server thread/INFO]: SillyCorn joined the game
+[20:11:59] [Server thread/WARN]: dharundds moved too quickly! 5.007196072221248,0.0,8.707212725678687
+[20:12:02] [Server thread/INFO]: dharundds lost connection: Disconnected
+[20:12:02] [Server thread/INFO]: dharundds left the game
+[20:12:05] [Server thread/INFO]: dharundds[/127.220.117.182:39513] logged in with entity id 30309 at (138.3574125616244, 63.96303276869638, 165.61073653464277)
+[20:12:05] [Server thread/INFO]: dharundds joined the game
+[20:12:09] [Server thread/WARN]: dharundds moved too quickly! 3.9217619950222513,0.0,9.458411320560458
+[20:12:13] [Server thread/WARN]: dharundds moved too quickly! 2.4409300092448802,0.0,10.218262886384565
+[20:12:15] [Server thread/WARN]: dharundds moved too quickly! -4.973107245655768,0.1876479425102957,9.719961993562322
+[20:12:17] [Server thread/WARN]: dharundds moved too quickly! -4.969715297401791,7.874841628966934,4.259875723627914
+[20:12:44] [Server thread/WARN]: dharundds moved too quickly! 3.740005520731984,4.833208378374536,8.019130221876509
+[20:12:55] [Server thread/INFO]: [dharundds: Teleported dharundds to SillyCorn]
+[20:13:18] [Server thread/WARN]: dharundds moved too quickly! -9.911838573923704,0.0,1.3966691577683044
+[20:13:30] [Server thread/WARN]: dharundds moved too quickly! 2.6475160196269307,5.6260418586740855,-8.2427489619878
+[20:13:32] [Server thread/WARN]: dharundds moved too quickly! 2.013559581121891,4.322842346828139,-8.896519722246893
+[20:13:45] [Server thread/WARN]: dharundds moved too quickly! -0.4435705322236563,0.0,-10.467443238599344
+[20:13:49] [Server thread/WARN]: dharundds moved too quickly! 0.8251063138770602,0.0,-10.13696777576007
+[20:14:20] [Server thread/INFO]: [dharundds: Teleported dharundds to LordJobi]
+[20:14:24] [Server thread/INFO]: LordJobi has made the advancement [Those Were the Days]
+[20:14:32] [Server thread/INFO]: dharundds has made the advancement [Those Were the Days]
+[20:15:02] [Server thread/INFO]: [dharundds: Set own game mode to Creative Mode]
+[20:15:05] [Server thread/INFO]: dharundds has made the advancement [War Pigs]
+[20:15:25] [Server thread/INFO]: dharundds has made the advancement [Cover Me with Diamonds]
+[20:15:26] [Server thread/INFO]: [LordJobi: Teleported LordJobi to dharundds]
+[20:15:26] [Server thread/WARN]: LordJobi moved too quickly! 478.4029696923737,-80.3623824084485,374.07741397416714
+[20:15:26] [Server thread/WARN]: LordJobi moved too quickly! 478.4029696923737,-80.3623824084485,374.07741397416714
+[20:15:26] [Server thread/WARN]: LordJobi moved too quickly! 478.4029696923737,-80.3623824084485,374.07741397416714
+[20:16:09] [Server thread/INFO]: [dharundds: Set own game mode to Spectator Mode]
+[20:16:27] [Server thread/WARN]: dharundds moved too quickly! -1.0195489201573835,1.2050353128261975,-10.332616686431777
+[20:16:30] [Server thread/WARN]: dharundds moved too quickly! 0.010804759020608401,0.0,-10.280749488554932
+[20:16:33] [Server thread/WARN]: dharundds moved too quickly! 0.010804759020608401,0.0,-10.408871392990704
+[20:16:35] [Server thread/WARN]: dharundds moved too quickly! 0.011885234922669241,0.0,-10.54669553196527
+[20:16:45] [Server thread/WARN]: dharundds moved too quickly! -10.126606950917008,0.0,2.1055342636911405
+[20:16:48] [Server thread/WARN]: dharundds moved too quickly! -10.064821184813837,0.0,2.0854658343008055
+[20:16:51] [Server thread/WARN]: dharundds moved too quickly! -10.067584451146956,0.0,2.0799444073409745
+[20:17:02] [Server thread/WARN]: dharundds moved too quickly! -6.595949071361474,6.000000232618348,-5.678396428436429
+[20:17:08] [Server thread/INFO]: [dharundds: Teleported dharundds to SillyCorn]
+[20:17:10] [Server thread/INFO]: [LordJobi: Teleported LordJobi to SillyCorn]
+[20:17:10] [Server thread/WARN]: LordJobi moved too quickly! -3.0685151928406498,19.57549293145582,-431.31902468747677
+[20:17:10] [Server thread/WARN]: LordJobi moved too quickly! -3.0685151928406498,19.57549293145582,-431.31902468747677
+[20:17:10] [Server thread/WARN]: LordJobi moved too quickly! -3.0685151928406498,19.57549293145582,-431.31902468747677
+[20:17:10] [Server thread/WARN]: LordJobi moved too quickly! -3.0685151928406498,19.57549293145582,-431.31902468747677
+[20:17:33] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[20:17:40] [Server thread/WARN]: dharundds moved too quickly! 6.306941245130236,6.937520841563526,4.347754843919503
+[20:17:50] [Server thread/INFO]: Villager cmk['Farmer'/25581, l='ServerLevel[world]', x=365.50, y=125.16, z=569.70] died, message: 'Farmer froze to death'
+[20:18:05] [Server thread/WARN]: dharundds moved too quickly! 0.0,-10.125000402331352,0.0
+[20:18:36] [Server thread/WARN]: dharundds moved too quickly! -9.756916075774138,0.0,-2.803143727548864
+[20:18:47] [Server thread/WARN]: dharundds moved too quickly! 2.8547461494127297,-6.000000238418579,7.639579053078322
+[20:18:53] [Server thread/WARN]: dharundds moved too quickly! -2.7686179791004477,5.4376589035054295,-8.66843824193758
+[20:19:13] [Server thread/WARN]: dharundds moved too quickly! -10.299232544376448,0.0,0.9040759731761057
+[20:19:18] [Server thread/WARN]: dharundds moved too quickly! -10.330086020384933,0.0,-0.041758968115729544
+[20:19:21] [Server thread/WARN]: dharundds moved too quickly! -5.269596305918142,-1.8295209065625144,-8.750179135811237
+[20:19:25] [Server thread/WARN]: dharundds moved too quickly! 2.7997016003929716,0.0,-9.883459925557514
+[20:19:44] [Server thread/INFO]: [dharundds: Set own game mode to Creative Mode]
+[20:20:37] [Server thread/WARN]: dharundds moved too quickly! -2.1055618048194926,5.999992836786134,8.02205551486026
+[20:20:41] [Server thread/WARN]: dharundds moved too quickly! 5.180579120438805,6.187557373347062,6.472980707481938
+[20:20:44] [Server thread/INFO]: SillyCorn has made the advancement [Best Friends Forever]
+[20:20:53] [Server thread/WARN]: dharundds moved too quickly! 9.97551320829825,0.0,2.7000040049975453
+[20:20:58] [Server thread/WARN]: dharundds moved too quickly! -0.8938231146157918,-10.474463176553556,-1.1695297204036024
+[20:21:15] [Server thread/WARN]: dharundds moved too quickly! 6.028785225058257,5.364598614236961,-6.4699608469102685
+[20:21:46] [Server thread/WARN]: dharundds moved too quickly! -6.8436212610418945,7.058038544671604,2.281640509119626
+[20:21:50] [Server thread/WARN]: dharundds moved too quickly! -6.529207885338311,-7.50000029792578,-1.3248367896662643
+[20:22:08] [Server thread/WARN]: dharundds moved too quickly! -1.4403718109397512,3.9387245965748434,9.23014033540069
+[20:22:14] [Server thread/WARN]: dharundds moved too quickly! -9.060691406252953,0.0,4.769874943423019
+[20:22:25] [Server thread/WARN]: dharundds moved too quickly! 4.970976220205202,-8.250000327812927,-3.634973666650694
+[20:22:37] [Server thread/WARN]: dharundds moved too quickly! -2.5350030153772245,3.1909013491950162,9.551139806620867
+[20:22:51] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to LordJobi]
+[20:22:53] [Server thread/WARN]: dharundds moved too quickly! 4.295025553529371,-5.99997967832843,-6.9137451688225084
+[20:23:02] [Server thread/WARN]: dharundds moved too quickly! 8.498846272674378,6.17253452175985,-1.149004512348574
+[20:23:41] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to 350.500000, 119.000000, 613.500000]
+[20:25:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:25:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[20:25:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[20:26:08] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved wrongly! 0.3582743687867378
+[20:26:08] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved wrongly! 0.824824113216323
+[20:26:08] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved wrongly! 1.2171130552468412
+[20:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[20:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:27:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2721ms or 54 ticks behind
+[20:27:21] [Server thread/INFO]: [dharundds: Set own game mode to Survival Mode]
+[20:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[20:27:50] [Server thread/INFO]: LordJobi has made the advancement [Cover Me with Diamonds]
+[20:29:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[20:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5170ms or 103 ticks behind
+[20:29:43] [Server thread/INFO]: dharundds lost connection: Disconnected
+[20:29:43] [Server thread/INFO]: dharundds left the game
+[20:30:26] [Server thread/INFO]: [LordJobi: Set the time to 1000]
+[20:31:16] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved wrongly! 0.30247543614956385
+[20:31:16] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved wrongly! 0.6851329482972801
+[20:31:16] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved wrongly! 0.8898853536798015
+[20:32:18] [Server thread/INFO]: [LordJobi: Teleported LordJobi to SillyCorn]
+[20:32:18] [Server thread/WARN]: LordJobi moved too quickly! 336.6648758809938,24.0,164.06200321305965
+[20:33:44] [Server thread/INFO]: [LordJobi: Gave 5 [Obsidian] to LordJobi]
+[20:35:51] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[20:36:11] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[20:36:29] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -9.597524092780901,-0.07683200149536162,-2.9513593006270185
+[20:36:29] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -9.830277678662384,-0.2274534586630068,-3.17497286559626
+[20:36:29] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -9.963837890653025,-0.4489423104376016,-3.3915705497958015
+[20:36:29] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -9.963837890653025,-0.7384922093173572,-3.601599123851372
+[20:36:29] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -9.984228785798337,0.0,-3.805293049613624
+[20:36:29] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -10.208442060293322,0.0,-4.148179085159143
+[20:36:29] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -10.536116416058462,0.0,-4.49072053581159
+[20:36:29] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -10.920394852905815,0.0,-4.8314398263971725
+[20:36:29] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -11.335382874062674,0.0,-5.1706226369298065
+[20:36:29] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -11.766802981500518,0.0,-5.508983307620156
+[20:36:29] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -12.207015570686849,0.0,-5.846904067672654
+[20:36:38] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -9.190699365390458,0.0,-4.675956716563007
+[20:36:38] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved too quickly! -9.661656906228444,0.0,-4.983675728502163
+[20:36:45] [Server thread/INFO]: SillyCorn lost connection: Timed out
+[20:36:45] [Server thread/INFO]: SillyCorn left the game
+[20:36:45] [Server thread/WARN]: handleDisconnection() called twice
+[20:36:50] [Server thread/INFO]: sriram lost connection: Timed out
+[20:36:50] [Server thread/INFO]: sriram left the game
+[20:37:21] [Server thread/INFO]: SillyCorn[/127.128.23.170:60655] logged in with entity id 42704 at (191.9802134969356, 88.84375002384186, 250.231124415946)
+[20:37:21] [Server thread/INFO]: SillyCorn joined the game
+[20:37:23] [Server thread/INFO]: sriram[/127.195.67.217:48357] logged in with entity id 42938 at (363.69999998807907, 119.00133597911214, 599.0749999880791)
+[20:37:23] [Server thread/INFO]: sriram joined the game
+[20:37:28] [Server thread/INFO]: [LordJobi: Teleported sriram to LordJobi]
+[20:39:14] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[20:40:36] [Server thread/INFO]: [LordJobi: Set the time to 1000]
+[20:41:13] [Server thread/INFO]: [Not Secure] <SillyCorn> tp SillyCorn sriram
+[20:41:23] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to sriram]
+[20:42:30] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to 110.500000, 67.000000, 161.500000]
+[20:45:27] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved wrongly! 0.25143333949222324
+[20:45:27] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved wrongly! 0.4786248254165031
+[20:45:27] [Server thread/WARN]: Horse (vehicle of SillyCorn) moved wrongly! 0.6001904598250292
+[20:46:34] [Server thread/INFO]: SillyCorn lost connection: Disconnected
+[20:46:34] [Server thread/INFO]: SillyCorn left the game
+[20:47:36] [Server thread/INFO]: [LordJobi: Set sriram's game mode to Creative Mode]
+[20:52:20] [Server thread/INFO]: [LordJobi: Set the time to 1000]
+[21:01:18] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[21:01:18] [Server thread/INFO]: LordJobi left the game
+[21:10:28] [Server thread/INFO]: sriram lost connection: Disconnected
+[21:10:28] [Server thread/INFO]: sriram left the game
+[21:50:07] [Server thread/INFO]: LordJobi[/127.0.0.1:49756] logged in with entity id 52806 at (-87.59315878675673, 68.0, 148.84758482110541)
+[21:50:07] [Server thread/INFO]: LordJobi joined the game
+[22:12:34] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[22:12:34] [Server thread/INFO]: LordJobi left the game

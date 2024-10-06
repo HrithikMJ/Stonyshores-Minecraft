@@ -15,6 +15,7 @@
       "minecraft:lukewarm_ocean": "2024-09-14 20:57:32 +0530",
       "minecraft:stony_shore": "2024-09-08 14:55:42 +0530",
       "minecraft:lush_caves": "2024-09-21 13:30:13 +0530",
+      "minecraft:dripstone_caves": "2024-10-05 19:26:31 +0530",
       "minecraft:old_growth_birch_forest": "2024-09-13 23:24:18 +0530",
       "minecraft:deep_dark": "2024-09-21 14:12:43 +0530",
       "minecraft:jungle": "2024-09-08 14:54:44 +0530",
@@ -651,6 +652,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-09-29 16:10:00 +0530",
       "minecraft:zombified_piglin": "2024-09-29 16:12:41 +0530",
+      "minecraft:magma_cube": "2024-10-05 18:45:02 +0530",
       "minecraft:spider": "2024-09-21 13:42:53 +0530",
       "minecraft:zombie": "2024-09-13 22:19:05 +0530",
       "minecraft:creeper": "2024-10-02 11:26:25 +0530"
@@ -2496,6 +2498,159 @@
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2024-10-02 16:35:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-10-05 18:31:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-10-05 18:31:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-10-05 18:39:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-10-05 18:39:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-10-05 19:05:45 +0530",
+      "minecraft:nether_wastes": "2024-10-05 18:40:07 +0530",
+      "minecraft:basalt_deltas": "2024-10-05 18:39:48 +0530",
+      "minecraft:warped_forest": "2024-10-05 18:48:33 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-10-05 18:40:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-10-05 18:40:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-10-05 18:40:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-10-05 18:40:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-10-05 18:40:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-10-05 18:40:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-10-05 18:42:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-05 18:48:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-05 18:48:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-10-05 18:50:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-10-05 18:50:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-10-05 19:13:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-10-05 19:13:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-10-05 19:13:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-10-05 19:26:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-10-05 20:15:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-10-05 20:15:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-10-05 20:15:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-10-05 20:15:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-10-05 20:14:32 +0530"
     },
     "done": true
   },
