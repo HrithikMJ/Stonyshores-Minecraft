@@ -1,23 +1,25 @@
-[21:34:01] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
-[21:34:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:34:05] [ServerMain/INFO]: Loaded 1290 recipes
-[21:34:05] [ServerMain/INFO]: Loaded 1399 advancements
-[21:34:05] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:34:05] [Server thread/INFO]: Loading properties
-[21:34:05] [Server thread/INFO]: Default game type: SURVIVAL
-[21:34:05] [Server thread/INFO]: Generating keypair
-[21:34:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:34:05] [Server thread/INFO]: Using epoll channel type
-[21:34:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:34:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:34:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:34:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:34:05] [Server thread/INFO]: Preparing level "world"
-[21:34:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:34:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:34:07] [Server thread/INFO]: Time elapsed: 481 ms
-[21:34:07] [Server thread/INFO]: Done (1.482s)! For help, type "help"
-[21:34:33] [Server thread/INFO]: LordJobi[/127.0.0.1:32988] logged in with entity id 29 at (-86.70500828961026, 69.0625, 158.07499998807907)
-[21:34:34] [Server thread/INFO]: LordJobi joined the game
-[21:51:09] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[21:51:09] [Server thread/INFO]: LordJobi left the game
+[10:48:06] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
+[10:48:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:48:10] [ServerMain/INFO]: Loaded 1290 recipes
+[10:48:10] [ServerMain/INFO]: Loaded 1399 advancements
+[10:48:11] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[10:48:11] [Server thread/INFO]: Loading properties
+[10:48:11] [Server thread/INFO]: Default game type: SURVIVAL
+[10:48:11] [Server thread/INFO]: Generating keypair
+[10:48:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:48:11] [Server thread/INFO]: Using epoll channel type
+[10:48:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:48:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:48:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:48:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:48:11] [Server thread/INFO]: Preparing level "world"
+[10:48:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:48:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:48:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[10:48:13] [Server thread/INFO]: Time elapsed: 690 ms
+[10:48:13] [Server thread/INFO]: Done (1.644s)! For help, type "help"
+[10:51:08] [Server thread/INFO]: LordJobi[/127.0.0.1:47512] logged in with entity id 34 at (-106.37774873683465, 68.0, 118.58576910684891)
+[10:51:08] [Server thread/INFO]: LordJobi joined the game
+[10:51:49] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[11:12:34] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[11:12:34] [Server thread/INFO]: LordJobi left the game
