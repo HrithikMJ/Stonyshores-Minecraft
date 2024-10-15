@@ -1,29 +1,197 @@
-[10:05:11] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
-[10:05:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[10:05:16] [ServerMain/INFO]: Loaded 1290 recipes
-[10:05:16] [ServerMain/INFO]: Loaded 1399 advancements
-[10:05:17] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[10:05:17] [Server thread/INFO]: Loading properties
-[10:05:17] [Server thread/INFO]: Default game type: SURVIVAL
-[10:05:17] [Server thread/INFO]: Generating keypair
-[10:05:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:05:17] [Server thread/INFO]: Using epoll channel type
-[10:05:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:05:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:05:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:05:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:05:17] [Server thread/INFO]: Preparing level "world"
-[10:05:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:05:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[10:05:19] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[10:05:19] [Server thread/INFO]: Time elapsed: 670 ms
-[10:05:19] [Server thread/INFO]: Done (1.837s)! For help, type "help"
-[10:07:10] [Server thread/INFO]: LordJobi[/127.0.0.1:55482] logged in with entity id 47 at (-108.9535324670422, 67.0, 135.81858463525262)
-[10:07:10] [Server thread/INFO]: LordJobi joined the game
-[10:33:52] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[10:33:52] [Server thread/INFO]: LordJobi left the game
-[10:36:39] [Server thread/INFO]: LordJobi[/127.0.0.1:41362] logged in with entity id 8503 at (-112.96032605190926, 68.0, 136.69999998807907)
-[10:36:39] [Server thread/INFO]: LordJobi joined the game
-[10:40:28] [Server thread/INFO]: [LordJobi: Gave 1 [Compass] to LordJobi]
-[10:50:52] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[10:50:52] [Server thread/INFO]: LordJobi left the game
+[19:44:28] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
+[19:44:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:44:32] [ServerMain/INFO]: Loaded 1290 recipes
+[19:44:32] [ServerMain/INFO]: Loaded 1399 advancements
+[19:44:33] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[19:44:33] [Server thread/INFO]: Loading properties
+[19:44:33] [Server thread/INFO]: Default game type: SURVIVAL
+[19:44:33] [Server thread/INFO]: Generating keypair
+[19:44:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:44:33] [Server thread/INFO]: Using epoll channel type
+[19:44:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:44:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:44:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:44:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:44:33] [Server thread/INFO]: Preparing level "world"
+[19:44:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:44:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:44:34] [Server thread/INFO]: Time elapsed: 474 ms
+[19:44:34] [Server thread/INFO]: Done (1.458s)! For help, type "help"
+[19:45:04] [Server thread/INFO]: LordJobi[/127.0.0.1:54092] logged in with entity id 34 at (-114.05791721413536, 63.0, 112.80763938284439)
+[19:45:04] [Server thread/INFO]: LordJobi joined the game
+[19:45:24] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[19:45:50] [Server thread/INFO]: SillyCorn[/127.128.23.170:37355] logged in with entity id 612 at (-105.80276716208459, 68.0, 104.20135300247709)
+[19:45:50] [Server thread/INFO]: SillyCorn joined the game
+[19:46:16] [Server thread/INFO]: [Not Secure] <SillyCorn> hi
+[19:46:19] [Server thread/INFO]: [Not Secure] <LordJobi> hi
+[19:46:34] [Server thread/INFO]: [Not Secure] <SillyCorn> sriram?
+[19:46:42] [Server thread/INFO]: [Not Secure] <LordJobi> dk he didnt come
+[19:47:43] [Server thread/INFO]: [Not Secure] <SillyCorn> vc?
+[19:47:46] [Server thread/INFO]: [Not Secure] <LordJobi> yes
+[19:51:22] [Server thread/INFO]: Villager cmk['Villager'/172, l='ServerLevel[world]', x=-83.15, y=68.00, z=158.22] died, message: 'Villager suffocated in a wall'
+[19:59:38] [Server thread/INFO]: sriram[/127.158.254.127:56583] logged in with entity id 5244 at (-100.57003720838111, 63.0, 122.40070591607173)
+[19:59:38] [Server thread/INFO]: sriram joined the game
+[20:02:12] [Server thread/INFO]: [Not Secure] <sriram> hi na enaku kekuthu na pesituthan eruken
+[20:03:27] [Server thread/INFO]: [LordJobi: Gave 1 [Elytra] to sriram]
+[20:04:54] [Server thread/INFO]: SillyCorn tried to swim in lava
+[20:05:13] [Server thread/INFO]: [LordJobi: Gave 1 [Elytra] to sriram]
+[20:07:16] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to sriram]
+[20:12:51] [Server thread/INFO]: SillyCorn tried to swim in lava
+[20:13:06] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to sriram]
+[20:14:36] [Server thread/INFO]: SillyCorn tried to swim in lava
+[20:14:56] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to sriram]
+[20:19:50] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[20:19:50] [Server thread/INFO]: LordJobi left the game
+[20:21:14] [Server thread/INFO]: LordJobi[/127.0.0.1:52780] logged in with entity id 32032 at (-121.83151650527536, 63.0, 126.77234201776525)
+[20:21:14] [Server thread/INFO]: LordJobi joined the game
+[20:21:49] [Server thread/INFO]: sriram lost connection: Disconnected
+[20:21:49] [Server thread/INFO]: sriram left the game
+[20:22:45] [Server thread/INFO]: [LordJobi: Teleported LordJobi to SillyCorn]
+[20:23:14] [Server thread/INFO]: SillyCorn has made the advancement [Hidden in the Depths]
+[20:26:55] [Server thread/INFO]: SillyCorn tried to swim in lava
+[20:27:34] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to LordJobi]
+[20:30:57] [Server thread/INFO]: LordJobi has made the advancement [Hidden in the Depths]
+[20:33:00] [Server thread/INFO]: sriram[/127.158.254.127:45917] logged in with entity id 34642 at (-101.01722843372747, 70.26471919051981, 203.00403495145682)
+[20:33:00] [Server thread/INFO]: sriram joined the game
+[20:35:07] [Server thread/INFO]: Vishnu_AC[/127.190.142.80:56241] logged in with entity id 35779 at (-62.56042948265908, 69.0, 143.98170059264007)
+[20:35:07] [Server thread/INFO]: Vishnu_AC joined the game
+[20:35:11] [Server thread/INFO]: SillyCorn has made the advancement [Fishy Business]
+[20:35:14] [Server thread/INFO]: Vishnu_AC lost connection: Disconnected
+[20:35:14] [Server thread/INFO]: Vishnu_AC left the game
+[20:35:42] [Server thread/INFO]: [LordJobi: Gave 2 [Elytra] to LordJobi]
+[20:36:00] [Server thread/INFO]: Vishnu_AC[/127.190.142.80:58823] logged in with entity id 36299 at (-62.56042948265908, 69.0, 143.98170059264007)
+[20:36:00] [Server thread/INFO]: Vishnu_AC joined the game
+[20:38:20] [Server thread/WARN]: Vishnu_AC moved wrongly!
+[20:41:10] [Server thread/INFO]: [LordJobi: Set Vishnu_AC's game mode to Creative Mode]
+[20:41:49] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[20:41:49] [Server thread/INFO]: LordJobi left the game
+[20:45:42] [Server thread/INFO]: LordJobi[/127.0.0.1:46190] logged in with entity id 40074 at (-99.11626766438603, 67.0, 136.01721351682602)
+[20:45:42] [Server thread/INFO]: LordJobi joined the game
+[20:48:27] [Server thread/INFO]: SillyCorn was doomed to fall
+[20:49:02] [Server thread/INFO]: [SillyCorn: Teleported sriram to SillyCorn]
+[20:49:03] [Server thread/INFO]: sriram has made the advancement [Eye Spy]
+[20:49:27] [Server thread/INFO]: sriram has made the advancement [The End?]
+[20:51:18] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to sriram]
+[20:51:22] [Server thread/INFO]: SillyCorn fell from a high place
+[20:51:45] [Server thread/INFO]: [SillyCorn: Teleported SillyCorn to sriram]
+[20:52:58] [Server thread/INFO]: [LordJobi: Gave 1 [Redstone Dust] to LordJobi]
+[20:53:51] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[20:53:51] [Server thread/INFO]: LordJobi left the game
+[20:54:31] [Server thread/INFO]: SillyCorn lost connection: Disconnected
+[20:54:31] [Server thread/INFO]: SillyCorn left the game
+[20:55:18] [Server thread/INFO]: LordJobi[/127.0.0.1:55940] logged in with entity id 44596 at (-113.94407430016666, 64.0, 184.30000001192093)
+[20:55:18] [Server thread/INFO]: LordJobi joined the game
+[20:55:33] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[20:59:11] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[20:59:11] [Server thread/INFO]: LordJobi left the game
+[21:15:32] [Server thread/INFO]: Vishnu_AC lost connection: Disconnected
+[21:15:32] [Server thread/INFO]: Vishnu_AC left the game
+[21:39:47] [Server thread/INFO]: LordJobi[/127.0.0.1:46372] logged in with entity id 54409 at (-87.6531790909987, 71.0, 132.9596603676734)
+[21:39:47] [Server thread/INFO]: LordJobi joined the game
+[21:40:35] [Server thread/INFO]: dharundds[/127.220.117.182:52733] logged in with entity id 54727 at (-107.70246535209324, 63.0, 120.97952681439179)
+[21:40:35] [Server thread/INFO]: dharundds joined the game
+[21:40:54] [Server thread/INFO]: [dharundds: Teleported dharundds to sriram]
+[21:42:08] [Server thread/INFO]: [Not Secure] <dharundds> sriram need help?
+[21:42:37] [Server thread/INFO]: [Not Secure] <sriram> no anna
+[21:42:46] [Server thread/INFO]: [Not Secure] <sriram> almost complated
+[21:42:47] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[21:43:50] [Server thread/INFO]: dharundds lost connection: Timed out
+[21:43:50] [Server thread/INFO]: dharundds left the game
+[21:43:50] [Server thread/WARN]: handleDisconnection() called twice
+[21:43:56] [Server thread/INFO]: dharundds[/127.220.117.182:41361] logged in with entity id 55928 at (-169.42044897444896, 91.74324976755072, -1.9608334975276749)
+[21:43:56] [Server thread/INFO]: dharundds joined the game
+[21:44:15] [Server thread/INFO]: [Not Secure] <LordJobi> put mending and unbreaking 3 in elytra
+[21:44:19] [Server thread/WARN]: dharundds moved too quickly! -2.3500000375628076,0.0,10.080256430581414
+[21:44:43] [Server thread/INFO]: dharundds lost connection: Disconnected
+[21:44:43] [Server thread/INFO]: dharundds left the game
+[21:44:51] [Server thread/INFO]: sriram lost connection: Disconnected
+[21:44:51] [Server thread/INFO]: sriram left the game
+[21:45:30] [Server thread/INFO]: dharundds[/127.220.117.182:37417] logged in with entity id 56567 at (-146.50900237982188, 91.74324976755072, -19.647840996049837)
+[21:45:30] [Server thread/INFO]: dharundds joined the game
+[21:51:51] [Server thread/INFO]: [Not Secure] <LordJobi> whre's sriram
+[21:51:55] [Server thread/INFO]: [Not Secure] <dharundds> dk
+[21:51:58] [Server thread/INFO]: [Not Secure] <LordJobi> ask
+[22:23:54] [Server thread/INFO]: [Not Secure] <dharundds> hrithik wru?
+[22:23:59] [Server thread/INFO]: [Not Secure] <LordJobi> in ur room
+[22:24:12] [Server thread/INFO]: [Not Secure] <dharundds> go to metro station down
+[22:24:12] [Server thread/INFO]: [Not Secure] <LordJobi> enachu thala
+[22:24:15] [Server thread/INFO]: [Not Secure] <dharundds> and say
+[22:24:25] [Server thread/INFO]: [Not Secure] <LordJobi> done
+[22:24:28] [Server thread/INFO]: [Not Secure] <LordJobi> one min
+[22:26:46] [Server thread/INFO]: [Not Secure] <LordJobi> vanten thaka
+[22:26:52] [Server thread/INFO]: [Not Secure] <LordJobi> enada creeper in minecart
+[22:27:00] [Server thread/INFO]: [Not Secure] <dharundds> remove the redstone torch
+[22:27:02] [Server thread/INFO]: [Not Secure] <dharundds> hehe
+[22:27:13] [Server thread/INFO]: [Not Secure] <LordJobi> in a match
+[22:29:44] [Server thread/INFO]: [Not Secure] <LordJobi> where da torch
+[22:29:52] [Server thread/INFO]: [Not Secure] <LordJobi> removed da
+[22:30:05] [Server thread/INFO]: [Not Secure] <dharundds> thanks
+[22:30:37] [Server thread/WARN]: dharundds moved too quickly! -0.4520026580312333,0.0,-10.737318870276653
+[22:30:46] [Server thread/INFO]: [Not Secure] <LordJobi> dei that creeper blowed
+[22:30:57] [Server thread/INFO]: [Not Secure] <dharundds> superra
+[22:31:04] [Server thread/INFO]: [Not Secure] <LordJobi> vc
+[22:31:27] [Server thread/INFO]: [Not Secure] <LordJobi> ??
+[22:31:35] [Server thread/INFO]: [Not Secure] <dharundds> in vc thaan
+[22:31:35] [Server thread/INFO]: [Not Secure] <LordJobi> any help?
+[22:31:43] [Server thread/INFO]: [Not Secure] <dharundds> one min
+[22:32:29] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[22:33:22] [Server thread/INFO]: [Not Secure] <LordJobi> ok
+[22:35:34] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[22:37:52] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[22:38:35] [Server thread/INFO]: dharundds lost connection: Timed out
+[22:38:35] [Server thread/INFO]: dharundds left the game
+[22:38:47] [Server thread/INFO]: dharundds[/127.220.117.182:54995] logged in with entity id 68494 at (-123.4867255868673, 56.0, 149.1103691517382)
+[22:38:47] [Server thread/INFO]: dharundds joined the game
+[22:39:06] [Server thread/WARN]: dharundds moved too quickly! -0.2907846280886588,0.6067516392593859,10.071600338942972
+[22:39:57] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[22:40:01] [Server thread/WARN]: dharundds moved too quickly! 0.25735934766376545,0.0,-10.230484337747981
+[22:41:14] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[22:42:01] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[22:42:06] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[22:42:48] [Server thread/INFO]: dharundds lost connection: Timed out
+[22:42:48] [Server thread/INFO]: dharundds left the game
+[22:42:57] [Server thread/INFO]: dharundds[/127.220.117.182:42703] logged in with entity id 69833 at (-122.8364539190807, 56.0, 136.91207656581932)
+[22:42:57] [Server thread/INFO]: dharundds joined the game
+[22:42:59] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[22:43:01] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[22:43:57] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[22:45:58] [Server thread/INFO]: dharundds lost connection: Timed out
+[22:45:58] [Server thread/INFO]: dharundds left the game
+[22:46:29] [Server thread/INFO]: dharundds[/127.220.117.182:38401] logged in with entity id 70718 at (-122.38091942573143, 56.0, 109.00204148393016)
+[22:46:29] [Server thread/INFO]: dharundds joined the game
+[22:47:16] [Server thread/WARN]: dharundds moved too quickly! 0.2968169407467798,-0.39000001549720764,10.81083884784644
+[22:49:09] [Server thread/INFO]: dharundds lost connection: Disconnected
+[22:49:09] [Server thread/INFO]: dharundds left the game
+[22:55:00] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[22:55:15] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[23:11:54] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[23:12:07] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[23:12:57] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[23:13:47] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[23:13:50] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[23:14:03] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[23:14:30] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[23:14:48] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[23:15:10] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[23:15:10] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[23:16:40] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[23:17:06] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[23:18:01] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[23:18:01] [Server thread/INFO]: LordJobi left the game
+[23:18:04] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:186) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at apn$1.run(SourceFile:103) [server-1.21.1.jar:?]
