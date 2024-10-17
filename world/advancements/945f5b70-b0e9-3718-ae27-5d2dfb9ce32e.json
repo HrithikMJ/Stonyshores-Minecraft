@@ -20,6 +20,7 @@
       "minecraft:grove": "2024-10-01 21:27:16 +0530",
       "minecraft:meadow": "2024-09-21 13:17:58 +0530",
       "minecraft:birch_forest": "2024-09-21 12:45:32 +0530",
+      "minecraft:bamboo_jungle": "2024-10-16 15:36:54 +0530",
       "minecraft:plains": "2024-10-12 18:18:59 +0530"
     },
     "done": false
@@ -392,6 +393,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-10-16 15:38:10 +0530",
       "baked_potato": "2024-09-21 13:03:47 +0530",
       "cooked_salmon": "2024-09-28 11:37:03 +0530",
       "carrot": "2024-10-01 22:48:27 +0530"
@@ -2184,6 +2186,84 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2024-10-15 20:49:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-10-16 15:20:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-10-16 15:20:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-16 15:26:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-10-16 15:26:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-16 15:26:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-10-16 15:29:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-16 15:26:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-10-16 15:40:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-16 15:26:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-16 15:26:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-16 15:26:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-16 15:26:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-10-16 15:26:55 +0530"
     },
     "done": true
   },

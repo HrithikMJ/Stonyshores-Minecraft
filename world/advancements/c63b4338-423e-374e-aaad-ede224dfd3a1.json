@@ -363,16 +363,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-09-21 18:44:20 +0530",
-      "cooked_rabbit": "2024-10-05 20:04:46 +0530",
-      "cooked_chicken": "2024-09-28 16:21:20 +0530",
       "cooked_mutton": "2024-10-05 20:20:11 +0530",
-      "potato": "2024-09-21 11:53:28 +0530",
-      "cooked_cod": "2024-09-21 12:22:02 +0530",
       "dried_kelp": "2024-09-21 12:22:38 +0530",
       "cooked_beef": "2024-10-13 15:31:05 +0530",
       "chorus_fruit": "2024-10-13 15:47:56 +0530",
       "baked_potato": "2024-09-21 13:00:23 +0530",
       "melon_slice": "2024-10-05 18:31:41 +0530",
+      "cooked_rabbit": "2024-10-05 20:04:46 +0530",
+      "cooked_chicken": "2024-09-28 16:21:20 +0530",
+      "potato": "2024-09-21 11:53:28 +0530",
+      "cooked_cod": "2024-09-21 12:22:02 +0530",
+      "cooked_salmon": "2024-10-16 15:12:10 +0530",
       "carrot": "2024-10-05 19:41:47 +0530"
     },
     "done": false
@@ -3360,12 +3361,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "salmon": "2024-10-15 20:35:11 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2024-10-15 20:06:31 +0530"
@@ -3378,9 +3373,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "has_ancient_debris": "2024-10-15 20:23:14 +0530"
+      "has_minecart": "2024-10-15 20:06:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-10-15 20:06:31 +0530"
     },
     "done": true
   },
@@ -3390,9 +3391,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_glow_ink_sac": "2024-10-15 20:46:36 +0530"
+      "has_ancient_debris": "2024-10-15 20:23:14 +0530"
     },
     "done": true
   },
@@ -3402,27 +3403,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-10-15 20:32:32 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2024-10-15 20:06:31 +0530"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-10-15 20:23:14 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_minecart": "2024-10-15 20:06:31 +0530"
+      "has_netherite_scrap": "2024-10-15 20:32:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-10-15 20:35:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-10-15 20:46:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-10-16 16:07:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-10-16 16:19:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-10-16 15:32:26 +0530"
     },
     "done": true
   },
