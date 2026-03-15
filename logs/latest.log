@@ -1,24 +1,67 @@
-[09:40:27] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
-[09:40:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[09:40:31] [ServerMain/INFO]: Loaded 1290 recipes
-[09:40:32] [ServerMain/INFO]: Loaded 1399 advancements
-[09:40:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[09:40:32] [Server thread/INFO]: Loading properties
-[09:40:32] [Server thread/INFO]: Default game type: SURVIVAL
-[09:40:32] [Server thread/INFO]: Generating keypair
-[09:40:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:40:32] [Server thread/INFO]: Using epoll channel type
-[09:40:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:40:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:40:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:40:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:40:32] [Server thread/INFO]: Preparing level "world"
-[09:40:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:40:34] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[09:40:34] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[09:40:34] [Server thread/INFO]: Time elapsed: 672 ms
-[09:40:34] [Server thread/INFO]: Done (1.991s)! For help, type "help"
-[09:41:06] [Server thread/INFO]: LordJobi[/127.0.0.1:54296] logged in with entity id 36 at (-113.5, 67.5625, 138.5)
-[09:41:06] [Server thread/INFO]: LordJobi joined the game
-[09:59:21] [Server thread/INFO]: LordJobi lost connection: Disconnected
-[09:59:21] [Server thread/INFO]: LordJobi left the game
+[08:30:09] [ServerMain/WARN]: Did not find udev library in operating system. Some features may not work.
+[08:30:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[08:30:14] [ServerMain/INFO]: Loaded 1470 recipes
+[08:30:14] [ServerMain/INFO]: Loaded 1584 advancements
+[08:30:14] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[08:30:14] [Server thread/INFO]: Loading properties
+[08:30:14] [Server thread/INFO]: Default game type: SURVIVAL
+[08:30:14] [Server thread/INFO]: Generating keypair
+[08:30:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:30:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:30:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:30:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:30:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:30:14] [Server thread/INFO]: Preparing level "world"
+[08:30:15] [Server thread/INFO]: Loading 0 persistent chunks...
+[08:30:15] [Server thread/INFO]: Preparing spawn area: 100%
+[08:30:15] [Server thread/INFO]: Time elapsed: 15 ms
+[08:30:15] [Server thread/INFO]: Done (0.335s)! For help, type "help"
+[08:31:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:59:39] [Server thread/INFO]: LordJobi[/127.0.0.1:46054] logged in with entity id 273 at (-108.6670689703198, 71.0, 150.56726569269836)
+[08:59:39] [Server thread/INFO]: LordJobi joined the game
+[09:00:14] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[09:00:14] [Server thread/INFO]: LordJobi left the game
+[09:00:42] [Server thread/INFO]: LordJobi[/127.0.0.1:57732] logged in with entity id 827 at (-112.20190013017684, 69.0, 177.87201953392048)
+[09:00:42] [Server thread/INFO]: LordJobi joined the game
+[09:01:38] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[09:01:54] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[09:02:26] [Server thread/INFO]: [LordJobi: Set own game mode to Spectator Mode]
+[09:04:44] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[09:11:10] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[09:17:31] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[09:17:31] [Server thread/INFO]: LordJobi left the game
+[10:01:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3554ms or 71 ticks behind
+[10:02:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:07:02] [Server thread/INFO]: LordJobi[/127.0.0.1:39296] logged in with entity id 5433 at (-111.61107975255072, 67.0, 135.6981347341617)
+[10:07:02] [Server thread/INFO]: LordJobi joined the game
+[10:07:41] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[10:08:36] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[10:08:46] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[10:09:16] [Server thread/INFO]: [LordJobi: Set own game mode to Survival Mode]
+[10:14:45] [Server thread/INFO]: [LordJobi: Set own game mode to Creative Mode]
+[10:17:17] [Server thread/INFO]: [LordJobi: Successfully filled 20706 block(s)]
+[10:19:06] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[10:19:06] [Server thread/INFO]: LordJobi left the game
+[10:20:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:28:14] [Server thread/INFO]: LordJobi[/127.0.0.1:46796] logged in with entity id 9564 at (-134.94576683422565, 78.0354069995186, 240.77986147375907)
+[10:28:14] [Server thread/INFO]: LordJobi joined the game
+[10:30:06] [Server thread/INFO]: [LordJobi: Successfully filled 4189 block(s)]
+[10:30:32] [Server thread/INFO]: [LordJobi: 288 biome entry/entries set between -160, 60, 248 and -132, 80, 268]
+[10:30:49] [Server thread/INFO]: [LordJobi: 288 biome entry/entries set between -160, 60, 248 and -132, 80, 268]
+[10:31:15] [Server thread/INFO]: [LordJobi: Set the time to 1000]
+[10:32:04] [Server thread/INFO]: [LordJobi: Successfully filled 1694 block(s)]
+[10:35:02] [Server thread/INFO]: [LordJobi: 672 biome entry/entries set between -156, 64, 268 and -104, 92, 288]
+[10:35:32] [Server thread/INFO]: [LordJobi: Successfully filled 15450 block(s)]
+[10:36:01] [Server thread/INFO]: [LordJobi: Successfully filled 3172 block(s)]
+[10:36:48] [Server thread/INFO]: [LordJobi: Successfully filled 3192 block(s)]
+[10:36:57] [Server thread/INFO]: [LordJobi: Successfully filled 3192 block(s)]
+[10:37:00] [Server thread/INFO]: [LordJobi: Successfully filled 3192 block(s)]
+[10:37:16] [Server thread/INFO]: [LordJobi: Successfully filled 2128 block(s)]
+[10:38:57] [Server thread/INFO]: [LordJobi: Successfully filled 12789 block(s)]
+[10:39:20] [Server thread/INFO]: [LordJobi: Successfully filled 1664 block(s)]
+[10:40:11] [Server thread/INFO]: [LordJobi: Successfully filled 13051 block(s)]
+[10:40:34] [Server thread/INFO]: [LordJobi: Successfully filled 1079 block(s)]
+[10:40:40] [Server thread/INFO]: [LordJobi: Successfully filled 19 block(s)]
+[10:40:47] [Server thread/INFO]: [LordJobi: Successfully filled 560 block(s)]
+[10:45:50] [Server thread/INFO]: LordJobi lost connection: Disconnected
+[10:45:50] [Server thread/INFO]: LordJobi left the game
